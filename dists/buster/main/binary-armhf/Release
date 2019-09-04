@@ -1,6 +1,5 @@
-Archive: stable
-Component: main
 Origin: buster
 Label: main
+Archive: buster
 Architecture: armhf
-Description: repository for stm32mp1 debian buster
+Component: main
