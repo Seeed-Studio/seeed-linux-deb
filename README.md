@@ -1,9 +1,10 @@
-Seeed deb Package Repository for STM32MP1
+Seeed deb Package Repository for ARM-Linux 
 ==============================================
 
 | Codename | Architecture | 
 | :------: | :----------: |
 | buster   | armhf        | 
+| bionic   | armhf        | 
 
 
 ### Add repository

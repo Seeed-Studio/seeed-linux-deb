@@ -8,3 +8,10 @@ Architectures: armhf source
 Description: repository for stm32mp1 debian buster
 SignWith: 4A3BF8AC
 
+Codename: bionic
+Suite: stable
+Components: main
+UDebComponents: main
+Architectures: armhf source
+Description: repository for ubuntu bionic
+SignWith: 4A3BF8AC
